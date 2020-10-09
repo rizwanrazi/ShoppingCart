@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="loading_bar_width_height">192dp</dimen>
+
+    <dimen name="minus_plus_width_height">40dp</dimen>
+    <dimen name="badge_count_textSize">10sp</dimen>
+</resources>

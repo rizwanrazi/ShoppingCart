@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">shoppingcart</string>
+
+
+
+    <string name="check_internet">Please check your internet connection!</string>
+    <string name="retry">Retry</string>
+
+    <string name="title_my_Cart">My Cart</string>
+    <string name="dollar_sign">$ </string>
+    <string name="continue_shopping">Continue shopping</string>
+    <string name="total">Total</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="shipping_fee">Shipping fee</string>
+    <string name="cod_charges">COD Charges</string>
+    <string name="summary">Summary</string>
+    <string name="cash_on_delivery">Cash on delivery</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="status">Status</string>
+    <string name="tracking">TRACKING#</string>
+    <string name="shipping_address">Shipping address</string>
+    <string name="pay_with_cash">Pay with cash</string>
+    <string name="personal_info">Personal info</string>
+    <string name="personal_info_temp">Personal info ,Personal infoPersonal infoPersonal infoPersonal infoPersonal infoPersonal infoPersonal infoPersonal infoPersonal infoPersonal infoPersonal infoPersonal info</string>
+    <string name="address">Address</string>
+    <string name="address_address">Address, Address, Address, Address, Address, Address, Address,</string>
+
+    <string name="submit_order">Submit Order</string>
+    <string name="qty">Qty</string>
+    <string name="price">Price</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="checkout_now">Checkout Now</string>
+
+    <string name="your_cart_is_empty">Your cart is empty</string>
+    <string name="total_price">Total Price</string>
+
+</resources>
